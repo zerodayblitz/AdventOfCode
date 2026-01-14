@@ -4,9 +4,9 @@ My solutions to all years of Advent of Code as I master programming through prob
 
 ## 📊 Progress Tracker
 
-| Year | Stars ⭐ | Primary Language | Status 
+| Year | Stars ⭐ |  Languages | Status 
 |------|---------|-----------------|--------
-| 2015 | 0/50 | C++ | 🔄 In Progress 
+| 2015 | 2/50 | C++ | 🔄 In Progress 
 | 2016 | 0/50 | - | ⏳ Not Started
 | 2017 | 0/50 | - | ⏳ Not Started
 | 2018 | 0/50 | - | ⏳ Not Started
@@ -17,7 +17,7 @@ My solutions to all years of Advent of Code as I master programming through prob
 | 2023 | 0/50 | - | ⏳ Not Started
 | 2024 | 0/50 | - | ⏳ Not Started
 
-**Total Progress**: 0/500 stars (0.0%)
+**Total Progress**: 2/500 stars (0.0004%)
 
 ## 📚 Key Concepts Learned
 
